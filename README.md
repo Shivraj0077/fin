@@ -13,6 +13,9 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+
+
 Open http://localhost:3000 with your browser to see the result.
 
 You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
@@ -31,23 +34,4 @@ The easiest way to deploy your Next.js app is to use the Vercel Platform from th
 
 Check out our Next.js deployment documentation for more details.
 
-markdown
-Copy code
 
----
-
-### Steps to Implement This:
-
-1. **Create a README File:**
-   - In the root directory of your GitHub project, create a `README.md` file.
-
-2. **Copy and Paste:**
-   - Copy the above template and paste it into the `README.md` file.
-
-3. **Customize:**
-   - Replace any placeholders (like project name, URLs, or file paths) with specifics from your project.
-
-4. **Preview on GitHub:**
-   - When you push this file to your GitHub repository, GitHub will render the Markdown and display it as shown in your screenshot.
-
-If you need further customization or help with specific parts, let me know!
